@@ -1,2 +1,2 @@
 # java-projects-
-projects which are done for codesoft internships 
+projects given by codesoft internship  
